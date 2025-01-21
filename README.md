@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://krisolis.ie/">
-    <img src="images/krisolis.png" alt="Logo" width="80" height="80">
+    <img src="images/BorderedLogo.png" alt="Logo" width="1281" height="393">
   </a>
 
 <h3 align="center">Krisolis</h3>
